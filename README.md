@@ -24,3 +24,7 @@ membuat repository terlebih dahulu.
 Langkah ke 5 yaitu: 
 File README.md berhasil dibuat, Kemudian masukan file yang baru dibuat dengan mengetik perintah "git add"
 ![IMG_20220708_181615](https://user-images.githubusercontent.com/108886539/177985081-7101f28e-dde1-4861-bc2a-a7dbec063936.jpg)
+
+Langkah ke 6 yaitu: 
+Membuat repository server -Server reopsitory yang akan kita gunakan adalah http://github.com -Anda harus membuat akun terlebih dahulu. -Pada laman github, klik tombol start a project, atau -Dari menu (icon +) klik New Repository
+![IMG_20220708_181632](https://user-images.githubusercontent.com/108886539/177985525-dfa8206d-62c4-43c7-8d92-967e6b472bb8.jpg)
