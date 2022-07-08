@@ -18,3 +18,4 @@ kita harus membuat file name di aplikasi git
 
 Langkah ke 4 yaitu: 
 membuat repository terlebih dahulu.
+![IMG_20220708_181602](https://user-images.githubusercontent.com/108886539/177984786-7b09bbbd-d4ad-4ad4-8ae8-442e025ca2f5.jpg)
