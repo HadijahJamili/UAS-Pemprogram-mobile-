@@ -15,3 +15,6 @@ Setelah didownload, lalu instal aplikasi git tersebut.
 Langkah ke 3 yaitu: 
 kita harus membuat file name di aplikasi git
 ![IMG_20220708_181544](https://user-images.githubusercontent.com/108886539/177984110-c067b4c9-9e41-4cc0-9c5f-f5c70f0a9f7d.jpg)
+
+Langkah ke 4 yaitu: 
+membuat repository terlebih dahulu.
