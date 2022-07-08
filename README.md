@@ -19,3 +19,8 @@ kita harus membuat file name di aplikasi git
 Langkah ke 4 yaitu: 
 membuat repository terlebih dahulu.
 ![IMG_20220708_181602](https://user-images.githubusercontent.com/108886539/177984786-7b09bbbd-d4ad-4ad4-8ae8-442e025ca2f5.jpg)
+
+
+Langkah ke 5 yaitu: 
+File README.md berhasil dibuat, Kemudian masukan file yang baru dibuat dengan mengetik perintah "git add"
+![IMG_20220708_181615](https://user-images.githubusercontent.com/108886539/177985081-7101f28e-dde1-4861-bc2a-a7dbec063936.jpg)
