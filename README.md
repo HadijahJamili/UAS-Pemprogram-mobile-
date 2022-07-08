@@ -8,4 +8,10 @@ Download aplikiasi GIT terlebih dahulu.Download sesuaikan ukuran laptop/PC anda 
 
 Langkah ke 2 yaitu:
 Setelah didownload, lalu instal aplikasi git tersebut.
-![IMG_20220708_181533](https://user-images.githubusercontent.com/108886539/177983241-d4c934ca-60a9-4f65-8c76-61d6a8cd2f71.jpg)
+![IMG_20220708_181533](https://user-images.githubusercontent.com/1088
+86539/177983241-d4c934ca-60a9-4f65-8c76-61d6a8cd2f71.jpg)
+
+
+Langkah ke 3 yaitu: 
+kita harus membuat file name di aplikasi git
+![IMG_20220708_181544](https://user-images.githubusercontent.com/108886539/177984110-c067b4c9-9e41-4cc0-9c5f-f5c70f0a9f7d.jpg)
